@@ -2,6 +2,10 @@
 
 *Now in experimental release, suggestions welcome*.
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
+
+
 # Paper
 
 Youjiang Xu<sup>\*</sup>,  Jiaqi Duan<sup>\*</sup>, Zhanghui Kuang<sup>&sect;</sup>, Xiaoyu Yue, Hongbin Sun, Yue Guan, Wei Zhang. ["Geometry Normalization Networks for Accurate Scene Text Detection"](###) . [[Paper\]](###). In ICCV 2019.
@@ -26,7 +30,7 @@ year = {2019}
 
 
 
-- The framework of the proposed Geometry Normalization Networks. The feature maps extracted by the backbone are fed into the Geometry Normalization Module (GNM) with  multi-branches, each of which is composed of one Scale Normalization Unit (SNU) $\mathcal{F}^s$ and Orientation Normalization Unit (ONU) $\mathcal{F}^o$. There are two different scale normalization units ($\mathcal{S}, \mathcal{S}_\frac{1}{2} $) and four orientation normalization units ($\mathcal{O}, \mathcal{O}_r, \mathcal{O}_f, \mathcal{O}_{r+f}$). With different combinations of SNU and ONU, GNM generates different geometry normalized feature maps, which are fed into one shared text detection header. 
+- The framework of the proposed Geometry Normalization Networks. The feature maps extracted by the backbone are fed into the Geometry Normalization Module (GNM) with  multi-branches, each of which is composed of one Scale Normalization Unit (SNU) \\(\mathcal{F}^s​\\) and Orientation Normalization Unit (ONU) \\(\mathcal{F}^o​\\). There are two different scale normalization units (\\(\mathcal{S}, \mathcal{S}_\frac{1}{2} ​\\)) and four orientation normalization units (​\\(\mathcal{O}, \mathcal{O}_r, \mathcal{O}_f, \mathcal{O}_{r+f}​\\)). With different combinations of SNU and ONU, GNM generates different geometry normalized feature maps, which are fed into one shared text detection header. 
 
 # The Rotated ICDAR 2015
 
@@ -40,6 +44,10 @@ year = {2019}
 - add rotated ICDAR 2015 benchmark dataset
 
 
+
+
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 
 
