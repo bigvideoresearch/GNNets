@@ -4,11 +4,11 @@
 
 # Paper
 
-Youjiang Xu<sup>\*</sup>,  Jiaqi Duan<sup>\*</sup>, Zhanghui Kuang<sup>&sect;</sup>, Xiaoyu Yue, Hongbin Sun, Yue Guan, Wayne Zhang. ["Geometry Normalization Networks for Accurate Scene Text Detection"](###) . [[Paper\]](###). In ICCV 2019.
+Youjiang Xu<sup>\*</sup>,  Jiaqi Duan<sup>\*</sup>, Zhanghui Kuang<sup>&sect;</sup>, Xiaoyu Yue, Hongbin Sun, Yue Guan, Wei Zhang. ["Geometry Normalization Networks for Accurate Scene Text Detection"](###) . [[Paper\]](###). In ICCV 2019.
 
 ```latex
 @InProceedings{Xu_2019_Geometry,
-author = {Xu, Youjiang and Duan, Jiaqi and Kuang, Zhanghui and Yue, Xiaoyu and Sun, Hongbin and Guan, Yue and Zhang, Wayne},
+author = {Xu, Youjiang and Duan, Jiaqi and Kuang, Zhanghui and Yue, Xiaoyu and Sun, Hongbin and Guan, Yue and Zhang, Wei},
 title = {Geometry Normalization Networks for Accurate Scene Text Detection},
 booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
 month = {Oct},
