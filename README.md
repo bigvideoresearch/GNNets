@@ -22,7 +22,9 @@ year = {2019}
 
 # Framework
 
-![The framework of the proposed Geometry Normalization Networks.](./framework.jpg ''GNNets'')
+![The framework of the proposed Geometry Normalization Networks.](framework.jpg)
+
+
 
 - The framework of the proposed Geometry Normalization Networks. The feature maps extracted by the backbone are fed into the Geometry Normalization Module (GNM) with  multi-branches, each of which is composed of one Scale Normalization Unit (SNU) $\mathcal{F}^s$ and Orientation Normalization Unit (ONU) $\mathcal{F}^o$. There are two different scale normalization units ($\mathcal{S}, \mathcal{S}_\frac{1}{2} $) and four orientation normalization units ($\mathcal{O}, \mathcal{O}_r, \mathcal{O}_f, \mathcal{O}_{r+f}$). With different combinations of SNU and ONU, GNM generates different geometry normalized feature maps, which are fed into one shared text detection header. 
 
