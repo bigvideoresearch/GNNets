@@ -32,7 +32,7 @@ year = {2019}
 
 # The Rotated ICDAR 2015
 
-- The Rotated ICDAR 2015 Benchmark could be download form [here](###)
+- The Rotated ICDAR 2015 Benchmark could be download form [here](https://drive.google.com/drive/folders/1lH5-xA2mh6YHkxCG9VB6mR_P_ruUm6rf)
 
 
 
